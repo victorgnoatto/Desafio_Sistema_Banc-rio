@@ -1,1 +1,1 @@
-# Desafio_Sistema_Banc-rio
+# O projeto 'Criando um Sistema Bancário com Python' me proporcionou uma experiência prática no desenvolvimento de software financeiro. Construí um sistema completo, com funcionalidades como criação de contas, transações e segurança. Foi uma oportunidade valiosa para aprimorar minhas habilidades de programação em Python, além de aprofundar meu conhecimento sobre conceitos financeiros e de segurança."
